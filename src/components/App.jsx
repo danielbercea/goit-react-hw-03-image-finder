@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101',
       }}
     >
-      goit-react-hw-03-image-finder
+      Goit-react-hw-03-image-finder
     </div>
   );
 };
